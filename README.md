@@ -1,5 +1,7 @@
 # DailyPlannerApp
 
+## Description
+Daily Planner app can be seamlessly integrated into your project to help manage tasks and schedules efficiently.
 
 ## Usage
 Benefits of Using the Daily Planner App:
